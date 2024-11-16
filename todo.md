@@ -5,7 +5,7 @@
 - [] write line detection
 - [] write flask routes
 - [] prisma integration
-- []] docker image  
+- [] docker image  
 
 ## task order
 
